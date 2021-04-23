@@ -42,14 +42,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 #### Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJF013&hide=contribs,prs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJF013&hide=contribs,prs&theme=tokyonight)
 </details>
 
 
