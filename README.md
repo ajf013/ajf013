@@ -42,6 +42,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+Markdown   19 mins         ███████████████████░░░░░░   75.53 % 
+YAML       6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
