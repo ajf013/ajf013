@@ -51,6 +51,10 @@ JSON         9 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJF013&hide=contribs,prs&theme=tokyonight)
 </details>
