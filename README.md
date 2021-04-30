@@ -83,7 +83,8 @@ JSON         9 mins          █▒░░░░░░░░░░░░░░░
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJF013&hide=contribs,prs&theme=tokyonight)
-</details>
+</details> <br>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=css,java,html&theme=tokyonight">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)  
 
