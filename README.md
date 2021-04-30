@@ -53,6 +53,8 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 </summary>
 
 <br >
+### "Love to code until my death"! 👋
+![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Webshine learning website exists!
 
