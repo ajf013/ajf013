@@ -2,6 +2,9 @@
 
 I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time coding outstanding projects.
 
+### "Love to code until my death"! 👋
+![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Freakcruzmma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Freakcruzmma)](https://twitter.com/Freakcruzmma) 
@@ -53,8 +56,6 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 </summary>
 
 <br >
-### "Love to code until my death"! 👋
-![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Webshine learning website exists!
 
