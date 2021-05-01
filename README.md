@@ -72,6 +72,8 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 - :Take me for job: [My Resume/CV](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
 - :email: aj13f01@gmail.com
 
+### Profile Summary
+![summary](https://profile-summary-for-github.com/user/ajf013)
 
 #### Profile Visits 
 
