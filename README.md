@@ -2,8 +2,7 @@
 
 I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time coding outstanding projects.
 
-### Hi there 👋 , I'm [Francis Cruz](https://www.github.com/ajf013) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=ajf013" alt="visitor badge"/></p>
-
+### Hi there 👋 , I'm [Francis Cruz](https://www.github.com/ajf013) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ajf013)
 ### 👦Stats:
 <div align="left">
 
