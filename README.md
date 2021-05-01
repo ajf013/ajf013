@@ -2,7 +2,6 @@
 
 I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time coding outstanding projects.
 
-### Hi there 👋 , I'm [Francis Cruz](https://www.github.com/ajf013) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ajf013)
 ### 👦Stats:
 <div align="left">
 
@@ -13,6 +12,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 :mailbox: Reach me out!
 
+[![GitHub followers](https://img.shields.io/github/followers/ajf013?style=social)](https://www.github.com/ajf013)
 [![Twitter Badge](https://img.shields.io/badge/-@Freakcruzmma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Freakcruzmma)](https://twitter.com/Freakcruzmma) 
 [![Linkedin Badge](https://img.shields.io/badge/-ajf013-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajf013-francis-cruz/) 
 [![Mail Badge](https://img.shields.io/badge/-@its_me_ajf013-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_ajf013/) 
@@ -46,7 +46,6 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 #### Top Technologies
 
@@ -108,3 +107,12 @@ CSS          5 mins          █░░░░░░░░░░░░░░░░
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)  
 
+<div align="right">
+<br/>
+<br/>  
+
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/ajf013/ajf013/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+<br/>
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/aj13f01@gmail.com)
+
+</div>
