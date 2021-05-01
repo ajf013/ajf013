@@ -18,6 +18,8 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 [![Mail Badge](https://img.shields.io/badge/-@its_me_ajf013-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_ajf013/) 
 [![Mail Badge](https://img.shields.io/badge/-AJF013-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aj13f01@gmail.com)
 [![Github](https://img.shields.io/github/followers/ajf013?label=Follow&style=social)](https://github.com/ajf013)
+<a href="https://franciscruz.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Ffranciscruz.netlify.app/%2F"/></a>
+
 
 <!-- TODO: Add last video link -->
 
