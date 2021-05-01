@@ -108,8 +108,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### Coding Stats
 
-<a href="https://github.com/ajf013/Profile-Readme-WakaTime"><img src="https://github.com/ajf013/ajf013/blob/main/images/stat.svg" alt="ajf013 WakaTime Activity" align=center/></a>
-
 <!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 17 mins    ██████████████▒░░░░░░░░░░   57.12 % 
