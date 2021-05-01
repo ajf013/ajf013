@@ -7,6 +7,12 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 ![profile visit](https://komarev.com/ghpvc/?username=ajf013) 
 
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ajf013-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+/>
+
 ### "Love to code until my death"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
 
