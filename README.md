@@ -5,7 +5,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=ajf013) [![Most Active GitHub User Rank](https://enaenac09g1vs57.m.pipedream.net)](https://commits.top/india.html)
+![profile visit](https://komarev.com/ghpvc/?username=ajf013) [![Most Active GitHub User Rank](https://enaenac09g1vs57.m.pipedream.net)]
 
 ### "Love to code until my death"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
