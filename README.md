@@ -125,6 +125,8 @@ JSON         11 mins         █░░░░░░░░░░░░░░░░
 
 ### GITHUB TROPHIES
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github-profile-trophy.vercel.app/?username=ajf013&row=2&column=3)
+
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)  
