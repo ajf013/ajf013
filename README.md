@@ -19,7 +19,16 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 [![Mail Badge](https://img.shields.io/badge/-@its_me_ajf013-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_ajf013/) 
 [![Mail Badge](https://img.shields.io/badge/-AJF013-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aj13f01@gmail.com)
 [![Github](https://img.shields.io/github/followers/ajf013?label=Follow&style=social)](https://github.com/ajf013)
-<a href="https://franciscruz.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Ffranciscruz.netlify.app/%2F"/></a>
+<a href="https://franciscruz.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Ffranciscruz.netlify.app/%2F" /></a> <br />
+
+ <a href="https://www.linkedin.com/in/ajf013-francis-cruz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.youtube.com/c/MMAEntertainment"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
+<a href="https://github.com/ajf013"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/francis.lashly/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:cruzmma2021@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/Itsme_Ajf013"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/its_me_ajf013/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+
 
 
 <!-- TODO: Add last video link -->
