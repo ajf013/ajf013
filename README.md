@@ -152,8 +152,9 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 #### Hire me
-- :Take me for job: [My Resume/CV](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
-- :email: cruzmma2021@gmail.com
+- <a href="https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289"><img src="https://img.shields.io/badge/-Resume-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="mailto:cruzmma2021@gamil.com"><img src="https://img.shields.io/badge/-cruzmma2021@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 #### Profile Visits 
 
