@@ -153,7 +153,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 #### Hire me
 - :Take me for job: [My Resume/CV](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
-- :email: aj13f01@gmail.com
+- :email: cruzmma2021@gmail.com
 
 #### Profile Visits 
 
@@ -176,10 +176,9 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJF013&hide=contribs,prs&theme=tokyonight)
-</details> <br>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=css,java,html&theme=tokyonight">
+#### Github Stats 
+ <a href="https://franciscruz.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ajf013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
 ### GITHUB TROPHIES
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github.com/ryo-ma/github-profile-trophy)<br>
