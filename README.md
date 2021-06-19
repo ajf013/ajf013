@@ -6,7 +6,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=ajf013) [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational)
+[![Repos Badge](https://badges.pufler.dev/repos/ajf013)](https://badges.pufler.dev)
 
 ### "Love to code until my death"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
@@ -17,7 +17,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 [![Twitter Badge](https://img.shields.io/badge/-@Freakcruzmma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Freakcruzmma)](https://twitter.com/Freakcruzmma) 
 [![Linkedin Badge](https://img.shields.io/badge/-ajf013-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajf013-francis-cruz/) 
 [![Mail Badge](https://img.shields.io/badge/-@its_me_ajf013-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_ajf013/) 
-[![Mail Badge](https://img.shields.io/badge/-AJF013-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aj13f01@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-AJF013-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cruzmma2021@gmail.com)
 [![Github](https://img.shields.io/github/followers/ajf013?label=Follow&style=social)](https://github.com/ajf013)
 <a href="https://franciscruz.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Ffranciscruz.netlify.app/%2F" /></a> <br />
 
@@ -36,7 +36,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 - 🔭 I’m not currently working. Searching for job.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding ideas.
-- 📫 How to reach me: aj13f01@gmail.com.
+- 📫 How to reach me: <a href="mailto:cruzmma2021@gamil.com"><img src="https://img.shields.io/badge/-cruzmma2021@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 - 😄 Pronouns: ajf, Cruz, AJF013.
 - ⚡ Fun fact: I play games and go out with my buddies.
 
@@ -65,7 +65,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
-## Technologies I've been learning and using so far
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Technologies I've been learning and using so far
 
 - PROGRAMMING LANGUAGES : <br />
   
@@ -160,10 +160,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ajf013.ajf013)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+More stuff about me
 
 <br >
 
@@ -178,7 +175,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 #### Github Stats 
- <a href="https://franciscruz.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ajf013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+ <a href="https://franciscruz.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ajf013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a><img src ="https://activity-graph.herokuapp.com/graph?username=ajf013&bg_color=ffffff&color=6600ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
 
 
 ### GITHUB TROPHIES
