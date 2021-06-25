@@ -42,8 +42,9 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![React Js](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Npm](https://img.shields.io/badge/-Npm-black?style=plastic&logo=npm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 - 💻 I work using:
