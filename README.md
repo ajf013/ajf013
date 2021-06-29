@@ -171,7 +171,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.31 % 
+HTML         1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+CSS          56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Markdown     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 <!--END_SECTION:waka-->
 
