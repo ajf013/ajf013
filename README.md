@@ -160,7 +160,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ajf013.ajf013)
+![visitors](https://komarev.com/ghpvc/?username=ajf013)
 
 More stuff about me
 
