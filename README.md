@@ -72,6 +72,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 
 - PROGRAMMING LANGUAGES : <br />
   
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 - FRONTEND : <br />
