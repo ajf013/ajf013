@@ -5,8 +5,10 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=ajf013) [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
-[![Years Badge](https://badges.pufler.dev/years/ajf013)](https://badges.pufler.dev)
+![profile visit](https://komarev.com/ghpvc/?username=ajf013) 
+[![Years Badge](https://badges.pufler.dev/years/ajf013)](https://badges.pufler.dev) <br/>
+
+[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
  
 ### "Love to code until my death"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
@@ -37,7 +39,7 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding ideas.
 - 📫 How to reach me: <a href="mailto:cruzmma2021@gamil.com"><img src="https://img.shields.io/badge/-cruzmma2021@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-- 😄 Pronouns: ajf, Cruz, AJF013.
+- 😄 Pronouns: ajf, Cruz, Kannan, AJF013.
 - ⚡ Fun fact: I play games and go out with my buddies.
 
 - 🚀 I use daily:
