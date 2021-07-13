@@ -6,10 +6,8 @@ I'm Francis Cruz a Web Developer and AI Bot Developer. I Spend most of time codi
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=ajf013) [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
-[![Repos Badge](https://badges.pufler.dev/repos/ajf013)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/ajf013)](https://badges.pufler.dev)
-
-
-
+[![Years Badge](https://badges.pufler.dev/years/ajf013)](https://badges.pufler.dev)
+ 
 ### "Love to code until my death"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
 
