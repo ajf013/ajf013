@@ -189,8 +189,7 @@ JSON       1 min           ░░░░░░░░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajf013&" alt="ajf013" /></p>
 <div align="right">
 <br/>
 <br/>  
