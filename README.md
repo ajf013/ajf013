@@ -173,11 +173,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-Java       5 hrs 24 mins   █████████████████▓░░░░░░░   70.79 % 
-Markdown   1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
-Text       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-SQL        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Java       4 hrs 42 mins   █████████████████▓░░░░░░░   70.59 % 
+Markdown   1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Text       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+SQL        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
