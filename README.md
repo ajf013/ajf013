@@ -173,10 +173,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-HTML         16 mins         █████████▓░░░░░░░░░░░░░░░   38.25 % 
-CSS          14 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-JavaScript   9 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.22 % 
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+HTML         41 mins         ██████████████▒░░░░░░░░░░   57.07 % 
+CSS          18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 % 
+JavaScript   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 <!--END_SECTION:waka-->
 
