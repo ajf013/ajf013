@@ -173,7 +173,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 min           ████████████▒░░░░░░░░░░░░   49.23 % 
+JavaScript   14 mins         ██████████████████▓░░░░░░   74.24 % 
+CSS          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 ```
 <!--END_SECTION:waka-->
 
