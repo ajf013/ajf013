@@ -173,7 +173,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 mins          ███████████████▓░░░░░░░░░   62.33 % 
+JSX          2 mins          █████████▒░░░░░░░░░░░░░░░   37.67 % 
 ```
 <!--END_SECTION:waka-->
 
