@@ -48,6 +48,7 @@ I'm Francis Cruz a Web Developer and a Cloud Administrator. I Spend most of time
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Npm](https://img.shields.io/badge/-Npm-black?style=plastic&logo=npm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-007ACC?style=plastic&logo=visual-studio-code)
 
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
