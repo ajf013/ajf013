@@ -1,12 +1,11 @@
 ## Hi I'm Francis Cruz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Francis Cruz a Web Developer and a Cloud Administrator. I Spend most of time coding outstanding projects.
+I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group. I Spend most of time coding outstanding projects.
 
 ### 👦Stats:
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=ajf013) 
-[![Years Badge](https://badges.pufler.dev/years/ajf013)](https://badges.pufler.dev) <br/>
 
 [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
  
