@@ -1,6 +1,6 @@
 ## Hi I'm Francis Cruz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group. I Spend most of time coding outstanding projects.
+I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group.
 
 ### 👦Stats:
 <div align="left">
@@ -9,13 +9,13 @@ I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group. 
 
 [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://github.com/ajf013/ajf013/blob/master/README.md)](https://github.com/ajf013/ajf013/blob/master/README.md) [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102&link=https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)](https://www.goodcv.com/cv/b412100c4b4cf25d2e3a3c35c4430289)
  
-### "Love to code until my death"! 👋
+### "Love to learn about new technologies"! 👋
 ![run](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)
 
 :mailbox: Reach me out!
 
 [![GitHub followers](https://img.shields.io/github/followers/ajf013?style=social)](https://www.github.com/ajf013)
-[![Twitter Badge](https://img.shields.io/badge/-@Itsme_Ajf013-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Itsme_Ajf013)](https://twitter.com/Itsme_Ajf013) 
+[![Twitter Badge](https://img.shields.io /badge/-@Itsme_Ajf013-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Itsme_Ajf013)](https://twitter.com/Itsme_Ajf013) 
 [![Linkedin Badge](https://img.shields.io/badge/-ajf013-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajf013-francis-cruz/) 
 [![Mail Badge](https://img.shields.io/badge/-@its_me_ajf013-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_ajf013/) 
 [![Mail Badge](https://img.shields.io/badge/-AJF013-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cruzmma2021@gmail.com)
@@ -28,7 +28,7 @@ I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group. 
 <a href="https://www.facebook.com/francis.lashly/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:cruzmma2021@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/Itsme_Ajf013"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/its_me_ajf013/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.instagram.com/fcruz_013/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 
 
@@ -143,6 +143,10 @@ I'm Francis Cruz, working as Cloud Administrator at Wipro for Woolworths Group. 
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
  
+ - Liktree: <br />
+ 
+ [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/AJF013)
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
