@@ -403,7 +403,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ajf013.ajf013)
+![visitors](https://api.visitorbadge.io/api/visitors?path=ajf013.ajf013)
 
 More stuff about me
 
@@ -424,14 +424,16 @@ Markdown     1 hr 44 mins    ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### Github Stats 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ajf013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a><img src ="https://activity-graph.herokuapp.com/graph?username=ajf013&bg_color=ffffff&color=6600ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
+<img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=ajf013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajf013&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajf013&bg_color=ffffff&color=6600ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" />
 
 
 ### GITHUB TROPHIES
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajf013)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ajf013)
 
 <div align="right">
 <br/>
