@@ -114,7 +114,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 💰 Azure-Financial-Insights
+### 💰 Azure Financial Insights
 > *Cloud spend management dashboard with glassmorphism UI.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-finops.fcruz.org-0078D4?style=for-the-badge)](https://finops.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Azure--Financial--Insights-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/Azure-Financial-Insights)
@@ -129,8 +129,8 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 💬 CruzOps-AI
-> *ChatGPT-like conversational scripting assistant for Azure.*
+### 💬 CruzOps AI
+> *ChatGPT-like conversational scripting assistant for Azure made by F_Cruz.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-pscli.fcruz.org-0078D4?style=for-the-badge)](https://pscli.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-CruzOps--AI-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/CruzOps-AI)
 
@@ -161,7 +161,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 📌 sticky-notes-app
+### 📌 Sticky Notes App
 > *Real-time synchronized dashboard notes manager.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-sticky--notes.fcruz.org-0078D4?style=for-the-badge)](https://sticky-notes.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-sticky--notes--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/sticky-notes-app)
@@ -177,7 +177,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 🔄 converter-app
+### 🔄 Converter App
 > *Privacy-friendly offline browser file conversion tool.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-convertme.fcruz.org-0078D4?style=for-the-badge)](https://convertme.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-converter--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/converter-app)
@@ -193,7 +193,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 🎵 musicplayerreact
+### 🎵 Music Player React
 > *Advanced audio player with YouTube sync and loop controls.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-music.fcruz.org-0078D4?style=for-the-badge)](https://music.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-musicplayerreact-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/musicplayerreact)
@@ -209,7 +209,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 📂 francis-ajf-portfolio
+### 📂 Francis AJF Portfolio
 > *Personal portfolio website showcasing skills & certificates.*
 >
 > [![Live App](https://img.shields.io/badge/🌐_Live_App-fcruz.org-0078D4?style=for-the-badge)](https://fcruz.org) [![GitHub Repo](https://img.shields.io/badge/GitHub-francis--ajf--portfolio-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/francis-ajf-portfolio)
