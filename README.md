@@ -254,13 +254,11 @@ More stuff about me
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.16 % 
-CSS          5 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-HTML         3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-JSON         1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Markdown     1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats 
