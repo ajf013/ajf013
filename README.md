@@ -100,7 +100,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 🛡️ CloudSentry
 > *AI-powered security scanner for Azure subscriptions.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-CloudSentry-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/CloudSentry)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-cloudsentry.fcruz.org-0078D4?style=for-the-badge)](https://cloudsentry.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-CloudSentry-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/CloudSentry)
 
 #### Tech Stack:
 
@@ -117,7 +117,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 💰 Azure-Financial-Insights
 > *Cloud spend management dashboard with glassmorphism UI.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-Azure--Financial--Insights-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/Azure-Financial-Insights)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-finops.fcruz.org-0078D4?style=for-the-badge)](https://finops.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Azure--Financial--Insights-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/Azure-Financial-Insights)
 
 #### Tech Stack:
 
@@ -132,7 +132,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 💬 CruzOps-AI
 > *ChatGPT-like conversational scripting assistant for Azure.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-CruzOps--AI-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/CruzOps-AI)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-pscli.fcruz.org-0078D4?style=for-the-badge)](https://pscli.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-CruzOps--AI-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/CruzOps-AI)
 
 #### Tech Stack:
 
@@ -148,7 +148,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 💻 UniCompile
 > *Multi-language online compiler running online and offline.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-UniCompile-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/UniCompile)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-unicompile.fcruz.org-0078D4?style=for-the-badge)](https://unicompile.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-UniCompile-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/UniCompile)
 
 #### Tech Stack:
 
@@ -164,7 +164,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 📌 sticky-notes-app
 > *Real-time synchronized dashboard notes manager.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-sticky--notes--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/sticky-notes-app)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-sticky--notes.fcruz.org-0078D4?style=for-the-badge)](https://sticky-notes.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-sticky--notes--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/sticky-notes-app)
 
 #### Tech Stack:
 
@@ -180,7 +180,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 🔄 converter-app
 > *Privacy-friendly offline browser file conversion tool.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-converter--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/converter-app)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-convertme.fcruz.org-0078D4?style=for-the-badge)](https://convertme.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-converter--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/converter-app)
 
 #### Tech Stack:
 
@@ -196,7 +196,7 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 ### 🎵 musicplayerreact
 > *Advanced audio player with YouTube sync and loop controls.*
 >
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-musicplayerreact-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/musicplayerreact)
+> [![Live App](https://img.shields.io/badge/🌐_Live_App-music.fcruz.org-0078D4?style=for-the-badge)](https://music.fcruz.org/) [![GitHub Repo](https://img.shields.io/badge/GitHub-musicplayerreact-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/musicplayerreact)
 
 #### Tech Stack:
 
@@ -225,164 +225,6 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 
 ---
 
-### 📉 Expense-EMI-Tracker-React
-> *Personal finance manager for monthly expenses and EMI obligations.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-Expense--EMI--Tracker--React-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/Expense-EMI-Tracker-React)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Finance tracker UI |
-| **Chart.js** | v4.x | Data visualization of monthly expenses and EMI obligations |
-| **HTML5/CSS3** | Native | Structure and styling |
-| **JavaScript** | ES6+ | Financial formulas and amortization schedule logic |
-
----
-
-### 🖼️ image-compressor-offline
-> *Offline client-side image compression tool for quick file size reduction.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-image--compressor--offline-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/image-compressor-offline)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Compression user interface |
-| **browser-image-compression** | v2.x | Client-side offline image resizing and compression |
-| **Vite** | v5.x | Development environment and builder |
-| **CSS3** | Native | Spacing and visual alignment |
-
----
-
-### 🍔 Smart-Restaurant-Bot
-> *AI-powered chatbot assistant for restaurant menus and ordering automation.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-Smart--Restaurant--Bot-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/Smart-Restaurant-Bot)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **Node.js** | v20.x | Backend service environment |
-| **Express.js** | v4.x | Server framework and routing for Dialogflow webhooks |
-| **Dialogflow** | API | Natural language understanding and conversation flow |
-| **React.js** | v18.x | Conversational chat interface client |
-
----
-
-### ☁️ googledriveclone-react
-> *Cloud file storage repository clone with folder structure and upload functions.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-googledriveclone--react-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/googledriveclone-react)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | File browser interface |
-| **Firebase (Auth/Firestore/Storage)** | v10.x | Authentication, folder database, and file storage bucket |
-| **Tailwind CSS** | v3.x | Dashboard layout styling |
-
----
-
-### 🔗 url-shortener-react-node
-> *Custom link management platform to shrink and track URL endpoints.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-url--shortener--react--node-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/url-shortener-react-node)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Link shortener dashboard client |
-| **Node.js/Express.js** | v20.x/v4.x | REST API server for link redirection |
-| **MongoDB/Mongoose** | v7.x/v7.x | Database storage and schema modeling for short URLs |
-
----
-
-### 🎤 vocalremover
-> *Client-side AI-powered vocal remover and audio splitter.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-vocalremover-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/vocalremover)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Progressive Web App frontend |
-| **TensorFlow.js** | v4.x | In-browser machine learning for audio source separation |
-| **Web Audio API** | API | Real-time audio rendering and track manipulation |
-| **CSS3** | Native | Audio waveform animations and styling |
-
----
-
-### 💌 weddinginviation
-> *Beautiful glassmorphism digital wedding invitation creator.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-weddinginviation-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/weddinginviation)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Glassmorphism card visualizer |
-| **Vite** | v5.x | Fast build tool |
-| **Glassmorphism CSS** | Native | Backdrop-filter styling for premium UI |
-| **JavaScript** | ES6+ | Interactive state management and custom form inputs |
-
----
-
-### ⛪ thiruppali-app
-> *Progressive Web Application (PWA) designed to provide daily Tamil Mass readings & spiritual reflections.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-thiruppali--app-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/thiruppali-app)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Progressive Web App frontend |
-| **Vite** | v5.x | App compiler and builder |
-| **Tailwind CSS** | v3.x | Responsive reading layouts |
-| **JavaScript** | ES6+ | Offline storage caching for Mass readings |
-
----
-
-### 🧩 riddleappreact
-> *Progressive Web App (PWA) for bilingual English & Tamil riddles.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-riddleappreact-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/riddleappreact)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Riddle quiz UI client |
-| **Vite** | v5.x | Fast compiler and builder |
-| **PWA** | v1.0 | Offline service worker and offline capability |
-| **CSS3** | Native | Fluid bento grid card animations |
-
----
-
-### 📋 SOP-upload
-> *Dashboard for managing Azure Cloud Operations Standard Operating Procedures.*
->
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-SOP--upload-181717?style=for-the-badge&logo=github)](https://github.com/ajf013/SOP-upload)
-
-#### Tech Stack:
-
-| Tech Used | Version | Description of Use |
-| :--- | :--- | :--- |
-| **React.js** | v18.x | Azure operational dashboard client |
-| **Vite** | v5.x | Fast compiler and bundler |
-| **Semantic UI** | v2.x | Cloud ops administrative interface styling |
-| **Azure Integration** | Cloud | Access controls and secure cloud storage links |
-
-
----
 
 ## 📜 Certifications
 
@@ -408,8 +250,6 @@ I'm a results-driven Azure Cloud & DevOps Engineer with **4+ years** of experien
 More stuff about me
 
 <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Webshine learning website exists!
 
 #### Coding Stats
 
